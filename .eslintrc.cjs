@@ -30,6 +30,7 @@ module.exports = {
       'error',
       'always'
     ],
-    "react/react-in-jsx-scope": "off"
+    'no-console': 'warn',
+    'react/react-in-jsx-scope': 'off'
   },
 }
